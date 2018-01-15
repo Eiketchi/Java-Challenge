@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+	<User>
+		<email>elmoutchou.amine@gmail.com</email>
+		<password>test</password>
+	</User>
+
+
+<User>
+<email>bili@hotmail.com</email>
+<password>abc</password>
+</User>
+</users>
